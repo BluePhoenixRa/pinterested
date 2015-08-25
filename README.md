@@ -1,3 +1,3 @@
 ## Pinterested Read Me
 
-Live: https://pinterested-bluephoenixra.c9.io/
+Live: https://pinterest-ror.heroku.com/
